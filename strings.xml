@@ -415,16 +415,18 @@ If you haven't connected your G+ account, you can join low security operations b
 If you do not know any operations yet, get in contact with the agent who has provided you with the download link of the RESWUE client. You can join operations any time later."</string>
     <string name="wiz_join_op_title">Second Step: Join an operation</string>
     <string name="wiz_next">Next</string>
-    <string name="wiz_welcome_agent_name_msg">"Hello Agent, be awesome!
-Thanks for joining our forces. With the RESWUE Client you hold a powerful tool in your hands.
+    <string name="wiz_welcome_agent_name_msg">"嗨 探員, be awesome!
+感謝參與合作. 你手上握有的是強大功能的RESWUE
+        <!--With the RESWUE Client you hold a powerful tool in your hands. -->
 
- There are two little steps required in order to get you started.
-
-First you need to specify your in-game agent name (and may connect your G+ account).
-
- Second you need to join a RESWUE operation.
-
-If you do not know any operation yet, get in contact with the agent who has provided you with the download link of the RESWUE Client. You can join operations any time later."</string>
+ 這邊有兩兩個步驟需要完成才能開始使用RESWUE。
+        <!--There are two little steps required in order to get you started. -->
+首先需要提供你Ingress ID（並且能連接你的Google+帳號）
+<!--First you need to specify your in-game agent name (and may connect your G+ account). -->
+ 第二步你需必須加入RESWUE系統平台
+ <!--Second you need to join a RESWUE operation. -->
+如果你不知道如何操作，請先詢問將此App重送給你的人如何操作，並可隨時加入加入我們。
+<!--If you do not know any operation yet, get in contact with the agent who has provided you with the download link of the RESWUE Client. You can join operations any time later." --></string>
     <string name="wiz_welcome_agent_name_msg_2run">You are sent back here, because the app was not able to find your specified agent name. Please ensure that you entered your agent name correctly (and, if applicable, connected it with your G+ account)</string>
     <string name="wiz_welcome_agent_name_title">Welcome to the RESWUE Client</string>
     <string name="wiz_welcome_agent_name_title_2run">Oops – specifying your Agent Name is essential</string>
