@@ -107,7 +107,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="accept">Accept</string>
+    <string name="accept">確認<!--Accept--></string>
     <string name="activating_op_msg">Activating Operation</string>
     <string name="agent_client_map_fragment_map_failed">Failed to load Google Maps, please try again later.</string>
     <string name="alert_fragment_assign">Assign to Me</string>
@@ -160,7 +160,7 @@
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
-    <string name="decline">Decline</string>
+    <string name="decline">拒絕<!--Decline--></string>
     <string name="ehm_activity_action_send_exception">Send Exception</string>
     <string name="ehm_activity_action_try_restart">Try App Again</string>
     <string name="ehm_activity_exception_send_info">An Error occurred within the AgentClient application. To create a better version, please send the exception information using the button below.</string>
@@ -183,18 +183,18 @@
     <string name="gps_monitoring_service_automatic_switch_off">Automatic switch off at %s</string>
     <string name="gps_monitoring_service_gps_enabled">GPS Tracking Enabled</string>
     <string name="gps_monitoring_service_no_google_play">AgentClient: No Google Play API</string>
-    <string name="init_map_msg">Initializing GoogleMaps</string>
-    <string name="intelurlcopied">Intel URL haas been copied to your clipboard</string>
-    <string name="join_operation_activity_checkbox_show_password">Show Password</string>
-    <string name="join_operation_activity_field_operation_name">Operation Name</string>
-    <string name="join_operation_activity_field_operation_password">Operation Password (Classic only)</string>
-    <string name="join_operation_activity_headline_classic">Join Operation [with Password]</string>
-    <string name="join_operation_activity_headline_highsec">Join Operation [with G+]</string>
-    <string name="join_operation_activity_headline_operation">Select Environment</string>
-    <string name="join_operation_activity_loading_environments">Loading environments…</string>
+    <string name="init_map_msg">GoogleMaps初始化中<!--Initializing GoogleMaps--></string>
+    <string name="intelurlcopied">IntelMaps連接已複製到剪貼簿<!--Intel URL haas been copied to your clipboard--></string>
+    <string name="join_operation_activity_checkbox_show_password"><!--Show Password--></string>
+    <string name="join_operation_activity_field_operation_name">戰隊名稱<!--Operation Name--></string>
+    <string name="join_operation_activity_field_operation_password">密碼<!--Operation Password (Classic only)--></string>
+    <string name="join_operation_activity_headline_classic">使用單立密碼加入戰隊<!--Join Operation [with Password]--></string>
+    <string name="join_operation_activity_headline_highsec">使用Google帳號加入戰隊<!--Join Operation [with G+]--></string>
+    <string name="join_operation_activity_headline_operation">選擇伺服器<!--Select Environment--></string>
+    <string name="join_operation_activity_loading_environments">讀取伺服器中<!--Loading environments…--></string>
     <string name="join_operation_activity_login_failed">Authentication failure!</string>
-    <string name="join_operation_activity_login_failed_desc">Cannot find the requested operation or authentication failed/password is wrong.</string>
-    <string name="join_operation_activity_title">Join Operation</string>
+    <string name="join_operation_activity_login_failed_desc">找不到要求的戰隊或是 驗證/密碼 錯誤<!--Cannot find the requested operation or authentication failed/password is wrong.--></string>
+    <string name="join_operation_activity_title">加入戰隊<!--Join Operation--></string>
     <string name="legal_activity_developer">You are now a developer</string>
     <string name="legal_activity_headine_thanks">Credits</string>
     <string name="legal_activity_headline_collected_data">Collected Data</string>
@@ -375,8 +375,8 @@ Please check your settings before an operation if it matches the requirements of
     <string name="retry">重試<!--Retry--></string>
     <string name="settings_activity_action_unbind">未綁定<!--Unbind--></string>
     <string name="settings_activity_agent">探員ID <!--Agent name--></string>
-    <string name="settings_activity_agent_dialog">Specify your Ingress Agent name</string>
-    <string name="settings_activity_agent_dialog_txt">The specified name will be visible to the operator (and does not have to match your Ingress Agent name - but it should)</string>
+    <string name="settings_activity_agent_dialog">輸入您的Ingress ID<!--Specify your Ingress Agent name--></string>
+    <string name="settings_activity_agent_dialog_txt">此為公開可見ID，請輸入與Ingress相同的ID<!--The specified name will be visible to the operator (and does not have to match your Ingress Agent name - but it should)--></string>
     <string name="settings_activity_agent_sum">此為公開可見ID<!--This name will be visible to the operator--></string>
     <string name="settings_activity_headline_agent">帳號設定<!--Account Configuration --></string>
     <string name="settings_activity_menu">設定<!-- Settings --></string>
@@ -386,18 +386,18 @@ Please check your settings before an operation if it matches the requirements of
     <string name="settings_activity_title_new">RESWUE設定<!--RESWUE Client Settings --></string>
     <string name="showNeedRestartMsg">更改語言後須重新啟動App以生效設定！<!--In order to complete the language change you need to restart the app.--></string>
     <string name="showNeedRestartT">App需要重新啟動<!--App need to be restarted--></string>
-    <string name="showOperationDataDeletedMsg">"With the new release it was required to delete all your present operation(s) in the client. You need to rejoin the Operations.
-We are sorry for this inconvenience."</string>
-    <string name="showOperationDataDeletedTitle">Important Update Notice</string>
-    <string name="sortASC">↑ Ascending</string>
-    <string name="sortByComment">By Comment</string>
-    <string name="sortByDistance">By Distance</string>
-    <string name="sortByTime">By Time</string>
-    <string name="sortByTitle">By Type/Title</string>
-    <string name="sortDESC">↓ Descending</string>
+    <string name="showOperationDataDeletedMsg">"更新完畢後將會刪除目前已加入的戰隊，若要繼續使用須重新加入，對此不便我們深感抱歉。"<!--"With the new release it was required to delete all your present operation(s) in the client. You need to rejoin the Operations.
+We are sorry for this inconvenience."--></string>
+    <string name="showOperationDataDeletedTitle">重要升級通知<!--Important Update Notice--></string>
+    <string name="sortASC">↑ 升冪<!--↑ Ascending--></string>
+    <string name="sortByComment">依照評論<!--By Comment--></string>
+    <string name="sortByDistance">依照距離<!--By Distance--></string>
+    <string name="sortByTime">依照時間<!--By Time--></string>
+    <string name="sortByTitle">依照格式/標題<!--By Type/Title--></string>
+    <string name="sortDESC">↓ 降冪<!--↓ Descending--></string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
-    <string name="store_picture_title">Save image</string>
+    <string name="store_picture_title">儲存圖片<!--Save image--></string>
     <string name="syncing_decline_msg">"Syncing “Decline” with Server
 
  (This dialog can be disabled in the Settings)"</string>
@@ -409,12 +409,12 @@ We are sorry for this inconvenience."</string>
  (This dialog can be disabled in the Settings)"</string>
     <string name="undo">Undo</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
-    <string name="wiz_join_op_msg">"Finally, you need to join a RESWUE operation.
+    <string name="wiz_join_op_msg">"最後，你需要加入RESWUE組織;如果您未登入Google帳號，只需要點及登入按鈕來加入，你也可以用較低安全性的方式加入戰隊(只輸入ID與密碼)"<!--"Finally, you need to join a RESWUE operation.
 If you have connected RESWUE Client with your G+ account, all you need to do is to specify the operation name and press the red “Sign In” button.
 If you haven't connected your G+ account, you can join low security operations by specifying operation name and password.
 
-If you do not know any operations yet, get in contact with the agent who has provided you with the download link of the RESWUE client. You can join operations any time later."</string>
-    <string name="wiz_join_op_title">Second Step: Join an operation</string>
+If you do not know any operations yet, get in contact with the agent who has provided you with the download link of the RESWUE client. You can join operations any time later."--></string>
+    <string name="wiz_join_op_title">步驟二：加入一個戰隊<!--Second Step: Join an operation--></string>
     <string name="wiz_next">下一步<!--Next --></string>
     <string name="wiz_welcome_agent_name_msg">"嗨 探員, be awesome!
 感謝參與合作. 你手上握有的是強大功能的RESWUE
