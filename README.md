@@ -1,4 +1,4 @@
 # RESWUE-zh-TW
 翻譯 RESWUE Android App  
-Known issue  
--地圖未顯示  
+## 已知問題
+-地圖無法顯示  
