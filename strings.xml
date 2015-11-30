@@ -374,14 +374,14 @@ Please check your settings before an operation if it matches the requirements of
     <string name="resistTrolls">%s helped a lot</string>
     <string name="retry">重試<!--Retry--></string>
     <string name="settings_activity_action_unbind">未綁定<!--Unbind--></string>
-    <string name="settings_activity_agent">探員ID<!--Agent name--></string>
+    <string name="settings_activity_agent">探員ID <!--Agent name--></string>
     <string name="settings_activity_agent_dialog">Specify your Ingress Agent name</string>
     <string name="settings_activity_agent_dialog_txt">The specified name will be visible to the operator (and does not have to match your Ingress Agent name - but it should)</string>
     <string name="settings_activity_agent_sum">This name will be visible to the operator</string>
     <string name="settings_activity_headline_agent">帳號設定<!--Account Configuration --></string>
     <string name="settings_activity_menu">設定<!-- Settings --></string>
     <string name="settings_activity_text_bound_google">你的帳號已綁定至Google ID:<!--Your account is bound to the Google Id:--></string>
-    <string name="settings_activity_text_sign_in_warning">此步驟將結合您輸入的探員ID與Google+帳號，，請謹慎填寫這項資訊，確保友軍能認出你是誰！        
+    <string name="settings_activity_text_sign_in_warning">此步驟將結合您輸入的探員ID與Google+帳號，請謹慎填寫這項資訊，確保友軍能認出你是誰。       
         <!-- You are about to combine the given agent name with the G+ Identity you select. Be aware that your trust might be evaluated on this information and your fellow agents should recognize you based on this identity! --></string>
     <string name="settings_activity_title_new">RESWUE客戶端設定<!--RESWUE Client Settings --></string>
     <string name="showNeedRestartMsg">更改語言後須重新啟動App以生效設定！<!--In order to complete the language change you need to restart the app.--></string>
