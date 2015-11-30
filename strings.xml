@@ -173,7 +173,7 @@
     <string name="error_http_on_assign">The server could not process the Alert-Assign request – HTTP Error Code was: %d</string>
     <string name="error_http_on_decline">The server could not process the Alert-Decline request – HTTP Error Code was: %d</string>
     <string name="error_http_on_resolve">The server could not process the Alert-Resolve request – HTTP Error Code was: %d</string>
-    <string name="exit_activity_menu">Exit</string>
+    <string name="exit_activity_menu">退出程式<!--Exit--></string>
     <string name="exit_service_activity_menu">Exit &amp; Stop sending your Location</string>
     <string name="farAwayOnResolve">The current distance to the portal is %s - Please verify if your resolve message is appropriate.</string>
     <string name="glogin_failed">Google+ login failed for unknown reasons</string>
@@ -227,7 +227,7 @@
     <string name="main_activity_action_filter_upgrade_portal">Upgrade Portal</string>
     <string name="main_activity_action_filter_virus_portal">UseVirus Portal</string>
     <string name="main_activity_action_join_operation">Join Operation</string>
-    <string name="main_activity_action_refresh">Refresh Data</string>
+    <string name="main_activity_action_refresh">重新載入資料<!--Refresh Data--></string>
     <string name="main_activity_action_send_location">Send Location</string>
     <string name="main_activity_action_settings">Agent &amp; GPS Settings</string>
     <string name="main_activity_action_sort">Sort List by…</string>
@@ -276,10 +276,10 @@
     <string name="operation_fragment_active">(active)</string>
     <string name="operation_fragment_no_op_available">"You haven't joined any operation yet…"</string>
     <string name="operation_fragment_op_removed">Operation removed</string>
-    <string name="optSection01s">Agent Name, Connect with Google</string>
-    <string name="optSection01t">Your Agent Account</string>
-    <string name="optSection02s">Appearance &amp; Startup Setting</string>
-    <string name="optSection02t">Appearance</string>
+    <string name="optSection01s">探員ID,綁定Google帳號<!--Agent Name, Connect with Google--></string>
+    <string name="optSection01t">個人帳戶設定<!--Your Agent Account--></string>
+    <string name="optSection02s">個人化設定 &amp; 啟動<!--Appearance &amp; Startup Setting--></string>
+    <string name="optSection02t">個人設定<!--Appearance--></string>
     <string name="optSection03s">GPS Configuration &amp; update frequency</string>
     <string name="optSection03t">Location Sharing</string>
     <string name="optSection04s">Configure in detail, when you would like to receive alert notifications</string>
@@ -295,14 +295,14 @@
     <string name="pref01cat0200T">Progress Dialog</string>
     <string name="pref01cat0201S">"Selected unit '%1$s'"</string>
     <string name="pref01cat0201T">Distance &amp; elevation units</string>
-    <string name="pref01cat0203S">Use Map Toolbar for showing the available alert actions (instead of a separate Dialog)</string>
-    <string name="pref01cat0203T">Use Map Toolbar</string>
+    <string name="pref01cat0203S">使用地圖工具顯示可用通知選項（代替獨立對話框）<!--Use Map Toolbar for showing the available alert actions (instead of a separate Dialog)--></string>
+    <string name="pref01cat0203T">使用地圖工具<!--Use Map Toolbar--></string>
     <string name="pref01cat02T">Display &amp; Appearance</string>
     <string name="pref02cat01">pref02cat01</string>
-    <string name="pref02cat0100S">"Selected: '%1$s' Language"</string>
+    <string name="pref02cat0100S">"選擇：'%1$s' "<!--Selected: '%1$s' Language-->"</string>
     <string name="pref02cat0100T">Language</string>
     <string name="pref02cat0101S">"Application start with '%1$s'"</string>
-    <string name="pref02cat0101T">First Screen after launch</string>
+    <string name="pref02cat0101T">App起始畫面<!--First Screen after launch--></string>
     <string name="pref02cat01T">Update Frequency</string>
     <string name="pref02cat01gpsupdateintervalS">"Update your location '%1$s'"</string>
     <string name="pref02cat01gpsupdateintervalT">GPS Status Update Frequency</string>
@@ -377,13 +377,13 @@ Please check your settings before an operation if it matches the requirements of
     <string name="settings_activity_agent">探員ID <!--Agent name--></string>
     <string name="settings_activity_agent_dialog">Specify your Ingress Agent name</string>
     <string name="settings_activity_agent_dialog_txt">The specified name will be visible to the operator (and does not have to match your Ingress Agent name - but it should)</string>
-    <string name="settings_activity_agent_sum">This name will be visible to the operator</string>
+    <string name="settings_activity_agent_sum">此為公開可見ID<!--This name will be visible to the operator--></string>
     <string name="settings_activity_headline_agent">帳號設定<!--Account Configuration --></string>
     <string name="settings_activity_menu">設定<!-- Settings --></string>
     <string name="settings_activity_text_bound_google">你的帳號已綁定至Google ID:<!--Your account is bound to the Google Id:--></string>
     <string name="settings_activity_text_sign_in_warning">此步驟將結合您輸入的探員ID與Google+帳號，請謹慎填寫這項資訊，確保友軍能認出你是誰。       
         <!-- You are about to combine the given agent name with the G+ Identity you select. Be aware that your trust might be evaluated on this information and your fellow agents should recognize you based on this identity! --></string>
-    <string name="settings_activity_title_new">RESWUE客戶端設定<!--RESWUE Client Settings --></string>
+    <string name="settings_activity_title_new">RESWUE設定<!--RESWUE Client Settings --></string>
     <string name="showNeedRestartMsg">更改語言後須重新啟動App以生效設定！<!--In order to complete the language change you need to restart the app.--></string>
     <string name="showNeedRestartT">App需要重新啟動<!--App need to be restarted--></string>
     <string name="showOperationDataDeletedMsg">"With the new release it was required to delete all your present operation(s) in the client. You need to rejoin the Operations.
@@ -415,7 +415,7 @@ If you haven't connected your G+ account, you can join low security operations b
 
 If you do not know any operations yet, get in contact with the agent who has provided you with the download link of the RESWUE client. You can join operations any time later."</string>
     <string name="wiz_join_op_title">Second Step: Join an operation</string>
-    <string name="wiz_next">Next</string>
+    <string name="wiz_next">下一步<!--Next --></string>
     <string name="wiz_welcome_agent_name_msg">"嗨 探員, be awesome!
 感謝參與合作. 你手上握有的是強大功能的RESWUE
         <!--With the RESWUE Client you hold a powerful tool in your hands. -->
@@ -429,7 +429,7 @@ If you do not know any operations yet, get in contact with the agent who has pro
 如果你不知道如何操作，請先詢問將此App重送給你的人如何操作，並可隨時加入加入我們。
 <!--If you do not know any operation yet, get in contact with the agent who has provided you with the download link of the RESWUE Client. You can join operations any time later." --></string>
     <string name="wiz_welcome_agent_name_msg_2run">You are sent back here, because the app was not able to find your specified agent name. Please ensure that you entered your agent name correctly (and, if applicable, connected it with your G+ account)</string>
-    <string name="wiz_welcome_agent_name_title">Welcome to the RESWUE Client</string>
-    <string name="wiz_welcome_agent_name_title_2run">Oops – specifying your Agent Name is essential</string>
+    <string name="wiz_welcome_agent_name_title">歡迎使用RWESWUE<!--Welcome to the RESWUE Client --></string>
+    <string name="wiz_welcome_agent_name_title_2run">噢...探員ID是必填呦～<!--Oops – specifying your Agent Name is essential --></string>
     <string name="yes">Yes</string>
 </resources>
