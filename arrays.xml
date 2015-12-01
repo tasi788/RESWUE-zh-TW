@@ -100,9 +100,9 @@
         <item>cht</item>
     </string-array>
     <string-array name="pref02cat0101E">
-        <item>Last used</item>
-        <item>Map</item>
-        <item>Alert-List</item>
+        <item>最後一次頁面<!--Last used--></item>
+        <item>地圖<!--Map--></item>
+        <item>警報清單<!--Alert-List--></item>
     </string-array>
     <string-array name="pref02cat0101V">
         <item>-1</item>
