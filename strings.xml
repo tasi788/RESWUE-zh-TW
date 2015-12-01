@@ -212,7 +212,7 @@
     <string name="legal_activity_text_ingress">This app is not officially affiliated with Ingress, Google or Niantic Labs</string>
     <string name="legal_activity_text_license">We utilize the standard Android SDK licensed under Apache 2.0.</string>
     <string name="legal_activity_text_storage_location">Your data is located in a database in Germany in the hands of @dilbertus (when using RESWUE EU). Your data is located in a database in USA in the hands of @wother (when using RESWUE NA).</string>
-    <string name="legal_activity_text_testers">\@Kimotu (and team), @Sjoerdmans, @CitizenOfTime, @agentor, @mjfb74 and many many more..."                                    "繁體中文翻Yee年糕由@Ding-Chen Tsai提供, 感謝各位府城藍軍協助測試。</string>
+    <string name="legal_activity_text_testers">\@Kimotu (and team), @Sjoerdmans, @CitizenOfTime, @agentor, @mjfb74 and many many more..."                                                                                                                               "繁體中文翻Yee年糕由@Ding-Chen Tsai提供, 感謝各位府城藍軍協助測試。</string>
     <string name="legal_activity_text_version">Version</string>
     <string name="main_activity_action_filter_agent">探員<!--Agents--></string>
     <string name="main_activity_action_filter_decay_portal">放電塔<!--LetDecay Portal--></string>
@@ -359,10 +359,10 @@ Please check your settings before an operation if it matches the requirements of
     <string name="pref03cat0X_VIRUS">病毒轉塔警報<!--UseVirus Alerts--></string>
     <string name="pref05cat01">pref05cat01</string>
     <string name="pref05cat01T"><!--General nearby Alert Notification Settings--></string>
-    <string name="pref05cat01_01Soff">您已關閉附近警報<!--You have disabled Nearby Alert Notifications--></string>
+    <string name="pref05cat01_01Soff">您已關閉鄰近警報<!--You have disabled Nearby Alert Notifications--></string>
     <string name="pref05cat01_01Son">Nearby Alert Notifications are enabled (please keep an eye on the battery usage and provide feedback to the developer team - TIA)</string>
-    <string name="pref05cat01_01T">Enable nearby Alert Notifications</string>
-    <string name="pref05cat01_01aSoff">Nearby-Alerts are handled like other RESWUE Alerts (can be removed from the notification list)</string>
+    <string name="pref05cat01_01T">接收鄰近警報<!--Enable nearby Alert Notifications--></string>
+    <string name="pref05cat01_01aSoff">您已開啟接收鄰近警報<!--Nearby-Alerts are handled like other RESWUE Alerts (can be removed from the notification list)--></string>
     <string name="pref05cat01_01aSon">"The 'Nearby-Alert-Service' Notification will be always sticky (can not be removed from your notification list)"</string>
     <string name="pref05cat01_01aT">Sticky Notifications</string>
     <string name="pref05cat01_02S">當未設定音效系統預設為無(-none-)<!--When you do not select a specific sound (-none-) the default system alert sound will be used--></string>
@@ -416,7 +416,8 @@ If you haven't connected your G+ account, you can join low security operations b
 If you do not know any operations yet, get in contact with the agent who has provided you with the download link of the RESWUE client. You can join operations any time later."--></string>
     <string name="wiz_join_op_title">步驟二：加入一個頻道<!--Second Step: Join an operation--></string>
     <string name="wiz_next">下一步<!--Next --></string>
-    <string name="wiz_welcome_agent_name_msg">"嗨 探員, be awesome!
+    <string name="wiz_welcome_agent_name_msg">"*Beta版尚有登入問題，請勿使用Google+帳號進行登入*
+        嗨 探員, be awesome!
 歡迎加入我們，你手上握有的是強大功能的RESWUE<!--With the RESWUE Client you hold a powerful tool in your hands. -->這邊有兩兩個步驟需要完成才能開始使用RESWUE
         <!--There are two little steps required in order to get you started. -->
 首先需要提供你探員 ID（並連接你的Google+帳號）
