@@ -51,10 +51,10 @@
     <string name="_PREFKEY_DIMENSION_FORMAT">unit</string>
     <string name="_PREFKEY_ENABLE_GEOFENCE">GeoFenceEnabled</string>
     <string name="_PREFKEY_ENABLE_GEO_NOTIFICATION_FOR_ALL_JOINED">GeoNotificationsForAllJoinedOperations</string>
-    <string name="_PREFKEY_ENABLE_MY_NOTIFICATIONS">MyNotifications</string>
+    <string name="_PREFKEY_ENABLE_MY_NOTIFICATIONS">個人通知<!--MyNotifications--></string>
     <string name="_PREFKEY_ENABLE_NOTIFICATIONS">GlobalNotifications</string>
     <string name="_PREFKEY_ENABLE_NOTIFICATION_FOR_ALL_JOINED">NotificationsForAllJoinedOperations</string>
-    <string name="_PREFKEY_ENABLE_OTHER_NOTIFICATIONS">OtherNotifications</string>
+    <string name="_PREFKEY_ENABLE_OTHER_NOTIFICATIONS">其他通知<!--OtherNotifications--></string>
     <string name="_PREFKEY_ENABLE_TEAM_NOTIFICATIONS">TeamNotifications</string>
     <string name="_PREFKEY_GEOFENCE_RADIUS">GeoFenceRadius</string>
     <string name="_PREFKEY_GPSUPDATEFREQ">UpdateFrequencyInSeconds</string>
