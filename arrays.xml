@@ -91,11 +91,13 @@
         <item>Device</item>
         <item>English</item>
         <item>Deutsch</item>
+        <item>Chinede (Traditional)</item>
     </string-array>
     <string-array name="pref02cat0100V">
         <item></item>
         <item>en</item>
         <item>de</item>
+        <item>cht</item>
     </string-array>
     <string-array name="pref02cat0101E">
         <item>Last used</item>
