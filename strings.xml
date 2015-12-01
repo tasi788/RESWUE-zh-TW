@@ -212,8 +212,7 @@
     <string name="legal_activity_text_ingress">This app is not officially affiliated with Ingress, Google or Niantic Labs</string>
     <string name="legal_activity_text_license">We utilize the standard Android SDK licensed under Apache 2.0.</string>
     <string name="legal_activity_text_storage_location">Your data is located in a database in Germany in the hands of @dilbertus (when using RESWUE EU). Your data is located in a database in USA in the hands of @wother (when using RESWUE NA).</string>
-    <string name="legal_activity_text_testers">\@Kimotu (and team), @Sjoerdmans, @CitizenOfTime, @agentor, @mjfb74 and many many more...                                      
-翻譯年糕由@Ding-Chen Tsai提供, 感謝各位府城藍軍協助測試。</string>
+    <string name="legal_activity_text_testers">\@Kimotu (and team), @Sjoerdmans, @CitizenOfTime, @agentor, @mjfb74 and many many more...                                    繁體中文翻Yee年糕由@Ding-Chen Tsai提供, 感謝各位府城藍軍協助測試。</string>
     <string name="legal_activity_text_version">Version</string>
     <string name="main_activity_action_filter_agent">探員<!--Agents--></string>
     <string name="main_activity_action_filter_decay_portal">放電塔<!--LetDecay Portal--></string>
@@ -317,7 +316,7 @@
     <string name="pref03cat0102Sa">"目前選擇音效：'%1$s'"<!--"Selected sound is: '%1$s'"--></string>
     <string name="pref03cat0102T">警報音效<!--Notification Sound--></string>
     <string name="pref03cat0105S">將塔的個別警報轉為集體警報<!--Instead of showing each Portal-Alert Notification separate you can group them by the time they are arriving--></string>
-    <string name="pref03cat0105Sa">"'%1$s' 將集體警報"<!--"Group Alerts that arrive: '%1$s'"--></string>
+    <string name="pref03cat0105Sa">"'%1$s'"<!--"Group Alerts that arrive: '%1$s'"--></string>
     <string name="pref03cat0105T">集體警報<!--Notification Grouping--></string>
     <string name="pref03cat01T">一般警報設定<!--General Notification Settings--></string>
     <string name="pref03cat01_01Soff">已關閉所有警報<!--You have disabled all notifications--></string>
