@@ -117,14 +117,14 @@
     <string name="alert_fragment_map">在地圖中開啟<!--Open with Maps--></string>
     <string name="alert_fragment_navigate">導航通知<!--Navigate to Alert--></string>
     <string name="alert_fragment_no_alert_available">你沒有任何通知<!--You have no alerts…--></string>
-    <string name="alert_fragment_resolve">Resolve Alert</string>
-    <string name="alerts_resolve_question">Are you sure you have completed the alert?</string>
+    <string name="alert_fragment_resolve">回報完成任務<!--Resolve Alert--></string>
+    <string name="alerts_resolve_question">確定回報？<!--Are you sure you have completed the alert?--></string>
     <string name="app_name">RESWUE Client</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="beAwesome">Agent, be awesome!</string>
-    <string name="cast_notification_connected_message">Connected to %1$s</string>
-    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_connected_message">已連接至%1$s<!--Connected to %1$s--></string>
+    <string name="cast_notification_connecting_message">正在連接至%1$s<!--Connecting to %1$s--></string>
     <string name="cast_notification_disconnect">Disconnect</string>
     <string name="common_android_wear_notification_needs_update_text">%1$s requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text">"%1$s won't run unless you update the Android Wear app."</string>
@@ -156,7 +156,7 @@
     <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
     <string name="common_google_play_services_updating_title">Google Play services are updating</string>
     <string name="common_open_on_phone">Open on phone</string>
-    <string name="common_signin_button_text">Sign In</string>
+    <string name="common_signin_button_text">登入<!--Sign In--></string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
@@ -174,13 +174,13 @@
     <string name="error_http_on_decline">The server could not process the Alert-Decline request – HTTP Error Code was: %d</string>
     <string name="error_http_on_resolve">The server could not process the Alert-Resolve request – HTTP Error Code was: %d</string>
     <string name="exit_activity_menu">退出程式<!--Exit--></string>
-    <string name="exit_service_activity_menu">Exit &amp; Stop sending your Location</string>
+    <string name="exit_service_activity_menu">退出程式並停止公開位置<!--Exit &amp; Stop sending your Location--></string>
     <string name="farAwayOnResolve">The current distance to the portal is %s - Please verify if your resolve message is appropriate.</string>
     <string name="glogin_failed">Google+ login failed for unknown reasons</string>
-    <string name="google_maps_key"><!--此為非公開API Key--></string>
-    <string name="gps_intent_service_gps_activation_request">GPS Activation Request</string>
-    <string name="gps_intent_service_gps_activation_request_desc">Your operator requests you to activate GPS tracking</string>
-    <string name="gps_monitoring_service_automatic_switch_off">Automatic switch off at %s</string>
+    <string name="google_maps_key">AIzaSyBCVS3wb0j-xQjRpaj-2-h64JRoFv4Vy0E<!--此為非公開API Key--></string>
+    <string name="gps_intent_service_gps_activation_request">需要啟用GPS<!--GPS Activation Request--></string>
+    <string name="gps_intent_service_gps_activation_request_desc">戰隊要求公開位置<!--Your operator requests you to activate GPS tracking--></string>
+    <string name="gps_monitoring_service_automatic_switch_off">將在 %s停止公開位置<!--Automatic switch off at %s--></string>
     <string name="gps_monitoring_service_gps_enabled">GPS Tracking Enabled</string>
     <string name="gps_monitoring_service_no_google_play">AgentClient: No Google Play API</string>
     <string name="init_map_msg"><!--GoogleMaps初始化中-->Initializing GoogleMaps</string>
@@ -212,35 +212,36 @@
     <string name="legal_activity_text_ingress">This app is not officially affiliated with Ingress, Google or Niantic Labs</string>
     <string name="legal_activity_text_license">We utilize the standard Android SDK licensed under Apache 2.0.</string>
     <string name="legal_activity_text_storage_location">Your data is located in a database in Germany in the hands of @dilbertus (when using RESWUE EU). Your data is located in a database in USA in the hands of @wother (when using RESWUE NA).</string>
-    <string name="legal_activity_text_testers">\@Kimotu (and team), @Sjoerdmans, @CitizenOfTime, @agentor, @mjfb74 and many many more</string>
+    <string name="legal_activity_text_testers">\@Kimotu (and team), @Sjoerdmans, @CitizenOfTime, @agentor, @mjfb74 and many many more...
+翻譯由@Ding-Chen Tsai提供, 感謝各委府城藍軍協助測試。</string>
     <string name="legal_activity_text_version">Version</string>
-    <string name="main_activity_action_filter_agent">Agents</string>
-    <string name="main_activity_action_filter_decay_portal">LetDecay Portal</string>
-    <string name="main_activity_action_filter_destroy_portal">Destroy Portal</string>
-    <string name="main_activity_action_filter_farm_portal">Farm Portal</string>
-    <string name="main_activity_action_filter_goto_portal">GoTo Portal</string>
-    <string name="main_activity_action_filter_link">Links</string>
-    <string name="main_activity_action_filter_link_portal">CreateLink Portal</string>
-    <string name="main_activity_action_filter_other">Other</string>
+    <string name="main_activity_action_filter_agent">探員<!--Agents--></string>
+    <string name="main_activity_action_filter_decay_portal">放電塔<!--LetDecay Portal--></string>
+    <string name="main_activity_action_filter_destroy_portal">攻擊<!--Destroy Portal--></string>
+    <string name="main_activity_action_filter_farm_portal">農塔<!--Farm Portal--></string>
+    <string name="main_activity_action_filter_goto_portal">前往指定塔<!--GoTo Portal--></string>
+    <string name="main_activity_action_filter_link">噴線<!--Links--></string>
+    <string name="main_activity_action_filter_link_portal">拉CF<!--CreateLink Portal--></string>
+    <string name="main_activity_action_filter_other">其他<!--Other--></string>
     <string name="main_activity_action_filter_polygon">Polygons</string>
-    <string name="main_activity_action_filter_portal">Portals</string>
-    <string name="main_activity_action_filter_upgrade_portal">Upgrade Portal</string>
-    <string name="main_activity_action_filter_virus_portal">UseVirus Portal</string>
-    <string name="main_activity_action_join_operation">Join Operation</string>
+    <string name="main_activity_action_filter_portal">塔<!--Portals--></string>
+    <string name="main_activity_action_filter_upgrade_portal">抬腳<!--Upgrade Portal--></string>
+    <string name="main_activity_action_filter_virus_portal">使用病毒轉塔<!--UseVirus Portal--></string>
+    <string name="main_activity_action_join_operation">加入戰隊<!--Join Operation--></string>
     <string name="main_activity_action_refresh">重新載入資料<!--Refresh Data--></string>
-    <string name="main_activity_action_send_location">Send Location</string>
-    <string name="main_activity_action_settings">Agent &amp; GPS Settings</string>
-    <string name="main_activity_action_sort">Sort List by…</string>
+    <string name="main_activity_action_send_location">公開位置<!--Send Location--></string>
+    <string name="main_activity_action_settings">探員 &amp; GPS設定<!--Agent &amp; GPS Settings--></string>
+    <string name="main_activity_action_sort">按照清單排序...<!--Sort List by…--></string>
     <string name="main_activity_alerts">Alerts</string>
-    <string name="main_activity_gps_deactivated">GPS Tracking Deactivated</string>
-    <string name="main_activity_gps_deactivated_desc">The GPS Tracking was ended automatically.</string>
-    <string name="main_activity_map">Map</string>
-    <string name="main_activity_my_alerts">My Alerts</string>
-    <string name="main_activity_my_teams_alerts">My Team Alerts</string>
+    <string name="main_activity_gps_deactivated">已停止公開位置<!--GPS Tracking Deactivated--></string>
+    <string name="main_activity_gps_deactivated_desc">已達自動停止公開位置時間<!--The GPS Tracking was ended automatically.--></string>
+    <string name="main_activity_map">地圖<!--Map--></string>
+    <string name="main_activity_my_alerts">個人通知<!--My Alerts--></string>
+    <string name="main_activity_my_teams_alerts">戰隊<!--My Team Alerts--></string>
     <string name="main_activity_operations">Operations</string>
-    <string name="main_activity_other_alerts">Unassigned Alerts</string>
+    <string name="main_activity_other_alerts">未定義通知<!--Unassigned Alerts--></string>
     <string name="main_activity_title">RESWUE Client</string>
-    <string name="mcp_data_refreshed">Data Refreshed</string>
+    <string name="mcp_data_refreshed">資料已載入<!--Data Refreshed--></string>
     <string name="mcp_no_operation_active">No Operation Active</string>
     <string name="mcp_operation_data_refreshed">%s Data Refreshed</string>
     <string name="message_alert_info_decay">Let Decay %s</string>
@@ -266,33 +267,33 @@
     <string name="nearbyAlert_header_detail">%1$d nearby Alerts [Range: %2$s]</string>
     <string name="nearbyAlert_prevInRangeDevider">Previously in Range:</string>
     <string name="nearbyAlert_summary">Open RESWUE Client for details</string>
-    <string name="newAlertsSubline">The Resistance needs you!</string>
+    <string name="newAlertsSubline">反抗軍需要你！！！<!--The Resistance needs you!--></string>
     <string name="newAlertsTitle">%s new Alerts</string>
     <string name="no">No</string>
     <string name="noneEntry">-none-</string>
     <string name="noneValue" />
-    <string name="notification_details">Details</string>
-    <string name="notification_map">Map</string>
-    <string name="operation_fragment_active">(active)</string>
-    <string name="operation_fragment_no_op_available">"You haven't joined any operation yet…"</string>
+    <string name="notification_details">詳細<!--Details--></string>
+    <string name="notification_map">地圖<!--Map--></string>
+    <string name="operation_fragment_active">啟動<!--(active)--></string>
+    <string name="operation_fragment_no_op_available">"尚未加入任何戰隊..."<!--"You haven't joined any operation yet…"--></string>
     <string name="operation_fragment_op_removed">Operation removed</string>
-    <string name="optSection01s">探員ID,綁定Google帳號<!--Agent Name, Connect with Google--></string>
+    <string name="optSection01s">探員ID &amp; 綁定Google帳號<!--Agent Name, Connect with Google--></string>
     <string name="optSection01t">個人帳戶設定<!--Your Agent Account--></string>
     <string name="optSection02s">個人化設定 &amp; 啟動<!--Appearance &amp; Startup Setting--></string>
     <string name="optSection02t">個人設定<!--Appearance--></string>
     <string name="optSection03s">GPS設定 &amp; 更新頻率<!--GPS Configuration &amp; update frequency--></string>
     <string name="optSection03t">分享位置<!--Location Sharing--></string>
-    <string name="optSection04s">Configure in detail, when you would like to receive alert notifications</string>
+    <string name="optSection04s">進階通知設定<!--Configure in detail, when you would like to receive alert notifications--></string>
     <string name="optSection04t">通知設定<!--Notifications--></string>
-    <string name="optSection05s">Notifications of nearby Alerts</string>
-    <string name="optSection05t">Nearby Alerts (GeoFence)</string>
-    <string name="optSection06s">Stuff you have to know about this app</string>
-    <string name="optSection06t">Legal Stuff &amp; Privacy Info</string>
-    <string name="please_wait_progess_title">Please wait</string>
+    <string name="optSection05s">鄰近的座標通知<!--Notifications of nearby Alerts--></string>
+    <string name="optSection05t">鄰近座標通知<!--Nearby Alerts (GeoFence)--></string>
+    <string name="optSection06s">關於本App<!--Stuff you have to know about this app--></string>
+    <string name="optSection06t">法律條款與隱私條款<!--Legal Stuff &amp; Privacy Info--></string>
+    <string name="please_wait_progess_title">請稍候...<!--Please wait--></string>
     <string name="pref01cat01">pref01cat01</string>
     <string name="pref01cat02">pref01cat02</string>
-    <string name="pref01cat0200S">Show Progress Dialog when Assign, Decline &amp; Resolve</string>
-    <string name="pref01cat0200T">Progress Dialog</string>
+    <string name="pref01cat0200S">分配時顯示進度對話框<!--Show Progress Dialog when Assign, Decline &amp; Resolve--></string>
+    <string name="pref01cat0200T">進度對話框<!--Progress Dialog--></string>
     <string name="pref01cat0201S">"選擇 '%1$s' 單位"<!--"Selected unit '%1$s'"--></string>
     <string name="pref01cat0201T">距離與海拔高度<!--Distance &amp; elevation units--></string>
     <string name="pref01cat0203S">使用地圖工具顯示可用通知選項（代替獨立對話框）<!--Use Map Toolbar for showing the available alert actions (instead of a separate Dialog)--></string>
@@ -301,16 +302,16 @@
     <string name="pref02cat01">pref02cat01</string>
     <string name="pref02cat0100S">"選擇：'%1$s' "<!--Selected: '%1$s' Language-->"</string>
     <string name="pref02cat0100T">Language</string>
-    <string name="pref02cat0101S">"Application start with '%1$s'"</string>
+    <string name="pref02cat0101S">"App起始畫面為 '%1$s'"<!--"Application start with '%1$s'"--></string>
     <string name="pref02cat0101T">App起始畫面<!--First Screen after launch--></string>
     <string name="pref02cat01T">更新頻率<!--Update Frequency--></string>
-    <string name="pref02cat01gpsupdateintervalS">"Update your location '%1$s'"</string>
+    <string name="pref02cat01gpsupdateintervalS">"每'%1$s'更新一次"<!--"Update your location '%1$s'"--></string>
     <string name="pref02cat01gpsupdateintervalT">GPS 狀態更新頻率<!--GPS Status Update Frequency--></string>
     <string name="pref02cat02">pref02cat02</string>
-    <string name="pref02cat02T">定時關閉<!--Auto OFF--></string>
-    <string name="pref02cat02gpsautooffintervalS">Location Sharing will automatically stop %1$s</string>
-    <string name="pref02cat02gpsautooffintervalSNever">Location Tracking will run continuously</string>
-    <string name="pref02cat02gpsautooffintervalT">Auto Switch Off Location Tracking (GPS)</string>
+    <string name="pref02cat02T">定時器<!--Auto OFF--></string>
+    <string name="pref02cat02gpsautooffintervalS">將在 %1$s內停止公開位置<!--Location Sharing will automatically stop %1$s--></string>
+    <string name="pref02cat02gpsautooffintervalSNever">定位追蹤將持續執行<!--Location Tracking will run continuously--></string>
+    <string name="pref02cat02gpsautooffintervalT">自動停止公開位置(GPS)<!--Auto Switch Off Location Tracking (GPS)--></string>
     <string name="pref03cat01">pref03cat01</string>
     <string name="pref03cat0102S">當未設定音效系統預設為無(-none-)<!--When you do not select a sound (-none-) the default system alert sound will be used--></string>
     <string name="pref03cat0102Sa">"目前選擇音效：'%1$s'"<!--"Selected sound is: '%1$s'"--></string>
@@ -319,7 +320,7 @@
     <string name="pref03cat0105Sa">"'%1$s' 將集體通知"<!--"Group Alerts that arrive: '%1$s'"--></string>
     <string name="pref03cat0105T">集體通知<!--Notification Grouping--></string>
     <string name="pref03cat01T">一般通知設定<!--General Notification Settings--></string>
-    <string name="pref03cat01_01Soff">You have disabled all notifications</string>
+    <string name="pref03cat01_01Soff">已關閉所有通知<!--You have disabled all notifications--></string>
     <string name="pref03cat01_01Son">已啟用通知<!--Notifications are enabled--></string>
     <string name="pref03cat01_01T">啟用通知<!--Enable Notifications--></string>
     <string name="pref03cat01_03Soff">Receive Notifications for the active operation ONLY</string>
@@ -419,12 +420,11 @@ If you do not know any operations yet, get in contact with the agent who has pro
     <string name="wiz_welcome_agent_name_msg">"嗨 探員, be awesome!
 感謝參與合作. 你手上握有的是強大功能的RESWUE
         <!--With the RESWUE Client you hold a powerful tool in your hands. -->
-
- 這邊有兩兩個步驟需要完成才能開始使用RESWUE。
+這邊有兩兩個步驟需要完成才能開始使用RESWUE。
         <!--There are two little steps required in order to get you started. -->
 首先需要提供你探員 ID（並連接你的Google+帳號）
 <!--First you need to specify your in-game agent name (and may connect your G+ account). -->
- 第二步你需必須加入RESWUE系統平台
+接著第二步你需必須加入RESWUE系統平台
  <!--Second you need to join a RESWUE operation. -->
 如果你不知道如何操作，請先詢問將此App重送給你的人如何操作，並可隨時加入加入我們。
 <!--If you do not know any operation yet, get in contact with the agent who has provided you with the download link of the RESWUE Client. You can join operations any time later." --></string>
