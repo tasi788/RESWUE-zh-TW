@@ -76,10 +76,10 @@
         <item>600000</item>
     </string-array>
     <string-array name="pref01cat0201E">
-        <item>Metric (km/h, km, m)</item>
-        <item>Imperial (mph, miles, feet)</item>
-        <item>Imperial (mph, miles, yard)</item>
-        <item>Nautical (nm/h, nm, feet)</item>
+        <item>公制 (公里/時, 公里, 公尺)<!--Metric (km/h, km, m)--></item>
+        <item>英制 (英里/時, 英里, 呎)<!--Imperial (mph, miles, feet)--></item>
+        <item>英制 (英里/時, 英里, 碼)<!--Imperial (mph, miles, yard)--></item>
+        <item>航海單位 (海哩/時, 海哩, 呎)<!--Nautical (nm/h, nm, feet)--></item>
     </string-array>
     <string-array name="pref01cat0201V">
         <item>0</item>
