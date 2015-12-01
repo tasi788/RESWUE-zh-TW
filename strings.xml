@@ -189,7 +189,7 @@
     <string name="join_operation_activity_field_operation_name">頻道名稱<!--Operation Name--></string>
     <string name="join_operation_activity_field_operation_password">密碼<!--Operation Password (Classic only)--></string>
     <string name="join_operation_activity_headline_classic">使用獨立密碼加入頻道<!--Join Operation [with Password]--></string>
-    <string name="join_operation_activity_headline_highsec">使用Google帳號加入頻道<!--Join Operation [with G+]--></string>
+    <string name="join_operation_activity_headline_highsec">使用Google+帳號加入頻道<!--Join Operation [with G+]--></string>
     <string name="join_operation_activity_headline_operation">選擇伺服器<!--Select Environment--></string>
     <string name="join_operation_activity_loading_environments">讀取伺服器中<!--Loading environments…--></string>
     <string name="join_operation_activity_login_failed">登入失敗<!--Authentication failure!--></string>
@@ -213,7 +213,7 @@
     <string name="legal_activity_text_license">We utilize the standard Android SDK licensed under Apache 2.0.</string>
     <string name="legal_activity_text_storage_location">Your data is located in a database in Germany in the hands of @dilbertus (when using RESWUE EU). Your data is located in a database in USA in the hands of @wother (when using RESWUE NA).</string>
     <string name="legal_activity_text_testers">\@Kimotu (and team), @Sjoerdmans, @CitizenOfTime, @agentor, @mjfb74 and many many more...                                      
-翻譯年糕由@Ding-Chen Tsai提供, 感謝各委府城藍軍協助測試。</string>
+翻譯年糕由@Ding-Chen Tsai提供, 感謝各位府城藍軍協助測試。</string>
     <string name="legal_activity_text_version">Version</string>
     <string name="main_activity_action_filter_agent">探員<!--Agents--></string>
     <string name="main_activity_action_filter_decay_portal">放電塔<!--LetDecay Portal--></string>
@@ -244,14 +244,14 @@
     <string name="mcp_data_refreshed">資料已載入<!--Data Refreshed--></string>
     <string name="mcp_no_operation_active">No Operation Active</string>
     <string name="mcp_operation_data_refreshed">%s Data Refreshed</string>
-    <string name="message_alert_info_decay">Let Decay %s</string>
-    <string name="message_alert_info_destroy">Destroy %s</string>
-    <string name="message_alert_info_farm">Farm %s</string>
-    <string name="message_alert_info_goto">Go to %s</string>
+    <string name="message_alert_info_decay">讓 %s 掉電<!--Let Decay %s--></string>
+    <string name="message_alert_info_destroy">攻擊 %s<!--Destroy %s--></string>
+    <string name="message_alert_info_farm">去農 %s<!--Farm %s--></string>
+    <string name="message_alert_info_goto">前往 %s<!--Go to %s--></string>
     <string name="message_alert_info_info">Message from Ops</string>
-    <string name="message_alert_info_link">Create Link %s</string>
-    <string name="message_alert_info_upgrade">Upgrade %s</string>
-    <string name="message_alert_info_virus">Use Virus %s</string>
+    <string name="message_alert_info_link">現在的塔噴到 %s<!--Create Link %s--></string>
+    <string name="message_alert_info_upgrade">升級 %s塔<!--Upgrade %s--></string>
+    <string name="message_alert_info_virus">對 %s 使用病毒<!--Use Virus %s--></string>
     <string name="mr_media_route_button_content_description">Cast</string>
     <string name="mr_media_route_chooser_searching">Searching for devices…</string>
     <string name="mr_media_route_chooser_title">Connect to device</string>
@@ -268,7 +268,7 @@
     <string name="nearbyAlert_prevInRangeDevider">Previously in Range:</string>
     <string name="nearbyAlert_summary">Open RESWUE Client for details</string>
     <string name="newAlertsSubline">反抗軍需要你！！！<!--The Resistance needs you!--></string>
-    <string name="newAlertsTitle">%s new Alerts</string>
+    <string name="newAlertsTitle">%s 有新警報<!--%s new Alerts--></string>
     <string name="no">No</string>
     <string name="noneEntry">-none-</string>
     <string name="noneValue" />
@@ -276,8 +276,8 @@
     <string name="notification_map">地圖<!--Map--></string>
     <string name="operation_fragment_active">啟動<!--(active)--></string>
     <string name="operation_fragment_no_op_available">"尚未加入任何頻道..."<!--"You haven't joined any operation yet…"--></string>
-    <string name="operation_fragment_op_removed">Operation removed</string>
-    <string name="optSection01s">探員ID &amp; 綁定Google帳號<!--Agent Name, Connect with Google--></string>
+    <string name="operation_fragment_op_removed">移除頻道<!--Operation removed--></string>
+    <string name="optSection01s">探員ID &amp; 綁定Google+帳號<!--Agent Name, Connect with Google--></string>
     <string name="optSection01t">個人帳戶設定<!--Your Agent Account--></string>
     <string name="optSection02s">個人化設定 &amp; 啟動<!--Appearance &amp; Startup Setting--></string>
     <string name="optSection02t">個人設定<!--Appearance--></string>
@@ -301,7 +301,7 @@
     <string name="pref01cat02T">個人化設定 &amp; 顯示<!--Display &amp; Appearance--></string>
     <string name="pref02cat01">pref02cat01</string>
     <string name="pref02cat0100S">"選擇：'%1$s' "<!--Selected: '%1$s' Language-->"</string>
-    <string name="pref02cat0100T">Language</string>
+    <string name="pref02cat0100T">語言<!--Language--></string>
     <string name="pref02cat0101S">"App起始畫面為 '%1$s'"<!--"Application start with '%1$s'"--></string>
     <string name="pref02cat0101T">App起始畫面<!--First Screen after launch--></string>
     <string name="pref02cat01T">更新頻率<!--Update Frequency--></string>
@@ -323,7 +323,7 @@
     <string name="pref03cat01_01Soff">已關閉所有警報<!--You have disabled all notifications--></string>
     <string name="pref03cat01_01Son">已啟用警報<!--Notifications are enabled--></string>
     <string name="pref03cat01_01T">啟用警報<!--Enable Notifications--></string>
-    <string name="pref03cat01_03Soff">Receive Notifications for the active operation ONLY</string>
+    <string name="pref03cat01_03Soff">接收所有已啟用的頻道訊息<!--Receive Notifications for the active operation ONLY--></string>
     <string name="pref03cat01_03Son">取得所有參與行動警報<!--Receive Notifications for all joined operations--></string>
     <string name="pref03cat01_03T">警報目前所有操作<!--Notify for all present Operation(s)--></string>
     <string name="pref03cat01_04Soff">"Specific notification settings per alert type - please think about the consequences when you make individual adjustments.
@@ -410,7 +410,7 @@ We are sorry for this inconvenience."--></string>
  (This dialog can be disabled in the Settings)"</string>
     <string name="undo">Undo</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
-    <string name="wiz_join_op_msg">"接著，你需要加入頻道組織，如果您未登入Google帳號，只需要點及登入按鈕來加入，你也可以用較低安全性的方式加入頻道(只輸入ID與密碼)"<!--"Finally, you need to join a RESWUE operation.
+    <string name="wiz_join_op_msg">"接著，你需要加入頻道組織，如果您未登入Google+帳號，只需要點及登入按鈕來加入，你也可以用較低安全性的方式加入頻道(只輸入ID與密碼)"<!--"Finally, you need to join a RESWUE operation.
 If you have connected RESWUE Client with your G+ account, all you need to do is to specify the operation name and press the red “Sign In” button.
 If you haven't connected your G+ account, you can join low security operations by specifying operation name and password.
 
