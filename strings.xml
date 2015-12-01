@@ -110,12 +110,12 @@
     <string name="accept">確認<!--Accept--></string>
     <string name="activating_op_msg">啟用頻道<!--Activating Operation--></string>
     <string name="agent_client_map_fragment_map_failed">讀取地圖失敗，請稍候再試。<!--Failed to load Google Maps, please try again later.--></string>
-    <string name="alert_fragment_assign">取得任務<!--Assign to Me--></string>
-    <string name="alert_fragment_copy">複製Intel Map網址製剪貼簿<!--Copy Intel URL to Clipboard--></string>
-    <string name="alert_fragment_decline">取消警報<!--Decline Alert--></string>
+    <string name="alert_fragment_assign">回報可以接下任務<!--Assign to Me--></string>
+    <string name="alert_fragment_copy">複製Intel Map網址到剪貼簿<!--Copy Intel URL to Clipboard--></string>
+    <string name="alert_fragment_decline">回報無法完成任務<!--Decline Alert--></string>
     <string name="alert_fragment_iitc">在IITC中開啟<!--Open in IITC--></string>
     <string name="alert_fragment_map">在地圖中開啟<!--Open with Maps--></string>
-    <string name="alert_fragment_navigate">導航警報<!--Navigate to Alert--></string>
+    <string name="alert_fragment_navigate">導航至目的地<!--Navigate to Alert--></string>
     <string name="alert_fragment_no_alert_available">你沒有任何警報<!--You have no alerts…--></string>
     <string name="alert_fragment_resolve">回報完成任務<!--Resolve Alert--></string>
     <string name="alerts_resolve_question">確定回報？<!--Are you sure you have completed the alert?--></string>
