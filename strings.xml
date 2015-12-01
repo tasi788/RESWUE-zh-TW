@@ -177,7 +177,7 @@
     <string name="exit_service_activity_menu">退出程式並停止公開位置<!--Exit &amp; Stop sending your Location--></string>
     <string name="farAwayOnResolve">The current distance to the portal is %s - Please verify if your resolve message is appropriate.</string>
     <string name="glogin_failed">Google+ login failed for unknown reasons</string>
-    <string name="google_maps_key">AIzaSyBCVS3wb0j-xQjRpaj-2-h64JRoFv4Vy0E<!--此為非公開API Key--></string>
+    <string name="google_maps_key"><!--此為非公開API Key--></string>
     <string name="gps_intent_service_gps_activation_request">需要啟用GPS<!--GPS Activation Request--></string>
     <string name="gps_intent_service_gps_activation_request_desc">頻道要求公開位置<!--Your operator requests you to activate GPS tracking--></string>
     <string name="gps_monitoring_service_automatic_switch_off">%s停止公開位置<!--Automatic switch off at %s--></string>
