@@ -360,9 +360,9 @@ Please check your settings before an operation if it matches the requirements of
     <string name="pref05cat01">pref05cat01</string>
     <string name="pref05cat01T"><!--General nearby Alert Notification Settings--></string>
     <string name="pref05cat01_01Soff">您已關閉鄰近警報<!--You have disabled Nearby Alert Notifications--></string>
-    <string name="pref05cat01_01Son">Nearby Alert Notifications are enabled (please keep an eye on the battery usage and provide feedback to the developer team - TIA)</string>
+    <string name="pref05cat01_01Son">您已開啟接收鄰近警報<!--Nearby Alert Notifications are enabled (please keep an eye on the battery usage and provide feedback to the developer team - TIA)--></string>
     <string name="pref05cat01_01T">接收鄰近警報<!--Enable nearby Alert Notifications--></string>
-    <string name="pref05cat01_01aSoff">您已開啟接收鄰近警報<!--Nearby-Alerts are handled like other RESWUE Alerts (can be removed from the notification list)--></string>
+    <string name="pref05cat01_01aSoff">收鄰近警報類似其他RESWUE其他警報功能，可隨時移除<!--Nearby-Alerts are handled like other RESWUE Alerts (can be removed from the notification list)--></string>
     <string name="pref05cat01_01aSon">"The 'Nearby-Alert-Service' Notification will be always sticky (can not be removed from your notification list)"</string>
     <string name="pref05cat01_01aT">Sticky Notifications</string>
     <string name="pref05cat01_02S">當未設定音效系統預設為無(-none-)<!--When you do not select a specific sound (-none-) the default system alert sound will be used--></string>
