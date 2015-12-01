@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alertListOptions">
-        <item>All Alerts</item>
-        <item>My Alerts</item>
-        <item>Team Alerts</item>
-        <item>Unassigned Alerts</item>
+        <item>團隊警報<!--All Alerts--></item>
+        <item>個人警報<!--My Alerts--></item>
+        <item>團隊警報<!--Team Alerts--></item>
+        <item>使用者未定義警報<!--Unassigned Alerts--></item>
     </string-array>
     <string-array name="gpsAutoOffInterval">
         <item>從不<!--Never--></item>
