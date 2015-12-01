@@ -180,7 +180,7 @@
     <string name="google_maps_key"><!--此為非公開API Key--></string>
     <string name="gps_intent_service_gps_activation_request">需要啟用GPS<!--GPS Activation Request--></string>
     <string name="gps_intent_service_gps_activation_request_desc">戰隊要求公開位置<!--Your operator requests you to activate GPS tracking--></string>
-    <string name="gps_monitoring_service_automatic_switch_off">將在 %s停止公開位置<!--Automatic switch off at %s--></string>
+    <string name="gps_monitoring_service_automatic_switch_off">%s停止公開位置<!--Automatic switch off at %s--></string>
     <string name="gps_monitoring_service_gps_enabled">GPS Tracking Enabled</string>
     <string name="gps_monitoring_service_no_google_play">AgentClient: No Google Play API</string>
     <string name="init_map_msg"><!--GoogleMaps初始化中-->Initializing GoogleMaps</string>
@@ -232,13 +232,13 @@
     <string name="main_activity_action_send_location">公開位置<!--Send Location--></string>
     <string name="main_activity_action_settings">探員 &amp; GPS設定<!--Agent &amp; GPS Settings--></string>
     <string name="main_activity_action_sort">按照清單排序...<!--Sort List by…--></string>
-    <string name="main_activity_alerts">Alerts</string>
+    <string name="main_activity_alerts">通知<!--Alerts--></string>
     <string name="main_activity_gps_deactivated">已停止公開位置<!--GPS Tracking Deactivated--></string>
     <string name="main_activity_gps_deactivated_desc">已達自動停止公開位置時間<!--The GPS Tracking was ended automatically.--></string>
     <string name="main_activity_map">地圖<!--Map--></string>
     <string name="main_activity_my_alerts">個人通知<!--My Alerts--></string>
-    <string name="main_activity_my_teams_alerts">戰隊<!--My Team Alerts--></string>
-    <string name="main_activity_operations">Operations</string>
+    <string name="main_activity_my_teams_alerts">戰隊通知<!--My Team Alerts--></string>
+    <string name="main_activity_operations">戰隊<!--Operations--></string>
     <string name="main_activity_other_alerts">未定義通知<!--Unassigned Alerts--></string>
     <string name="main_activity_title">RESWUE Client</string>
     <string name="mcp_data_refreshed">資料已載入<!--Data Refreshed--></string>
@@ -305,12 +305,12 @@
     <string name="pref02cat0101S">"App起始畫面為 '%1$s'"<!--"Application start with '%1$s'"--></string>
     <string name="pref02cat0101T">App起始畫面<!--First Screen after launch--></string>
     <string name="pref02cat01T">更新頻率<!--Update Frequency--></string>
-    <string name="pref02cat01gpsupdateintervalS">"每'%1$s'更新一次"<!--"Update your location '%1$s'"--></string>
+    <string name="pref02cat01gpsupdateintervalS">"'%1$s'更新一次"<!--"Update your location '%1$s'"--></string>
     <string name="pref02cat01gpsupdateintervalT">GPS 狀態更新頻率<!--GPS Status Update Frequency--></string>
     <string name="pref02cat02">pref02cat02</string>
     <string name="pref02cat02T">定時器<!--Auto OFF--></string>
     <string name="pref02cat02gpsautooffintervalS">將在 %1$s內停止公開位置<!--Location Sharing will automatically stop %1$s--></string>
-    <string name="pref02cat02gpsautooffintervalSNever">定位追蹤將持續執行<!--Location Tracking will run continuously--></string>
+    <string name="pref02cat02gpsautooffintervalSNever">持續公開位置<!--Location Tracking will run continuously--></string>
     <string name="pref02cat02gpsautooffintervalT">自動停止公開位置(GPS)<!--Auto Switch Off Location Tracking (GPS)--></string>
     <string name="pref03cat01">pref03cat01</string>
     <string name="pref03cat0102S">當未設定音效系統預設為無(-none-)<!--When you do not select a sound (-none-) the default system alert sound will be used--></string>
@@ -418,14 +418,10 @@ If you do not know any operations yet, get in contact with the agent who has pro
     <string name="wiz_join_op_title">步驟二：加入一個戰隊<!--Second Step: Join an operation--></string>
     <string name="wiz_next">下一步<!--Next --></string>
     <string name="wiz_welcome_agent_name_msg">"嗨 探員, be awesome!
-感謝參與合作. 你手上握有的是強大功能的RESWUE
-        <!--With the RESWUE Client you hold a powerful tool in your hands. -->
-這邊有兩兩個步驟需要完成才能開始使用RESWUE。
+感謝參與合作. 你手上握有的是強大功能的RESWUE<!--With the RESWUE Client you hold a powerful tool in your hands. -->這邊有兩兩個步驟需要完成才能開始使用RESWUE
         <!--There are two little steps required in order to get you started. -->
 首先需要提供你探員 ID（並連接你的Google+帳號）
-<!--First you need to specify your in-game agent name (and may connect your G+ account). -->
-接著第二步你需必須加入RESWUE系統平台
- <!--Second you need to join a RESWUE operation. -->
+<!--First you need to specify your in-game agent name (and may connect your G+ account). -->接著第二步你需必須加入RESWUE系統平台<!--Second you need to join a RESWUE operation. -->
 如果你不知道如何操作，請先詢問將此App重送給你的人如何操作，並可隨時加入加入我們。
 <!--If you do not know any operation yet, get in contact with the agent who has provided you with the download link of the RESWUE Client. You can join operations any time later." --></string>
     <string name="wiz_welcome_agent_name_msg_2run">You are sent back here, because the app was not able to find your specified agent name. Please ensure that you entered your agent name correctly (and, if applicable, connected it with your G+ account)</string>
