@@ -64,10 +64,10 @@
         <item>100000</item>
     </string-array>
     <string-array name="notifyGroupTime">
-        <item>不集體通知<!--OFF (no grouping)--></item>
-        <item>1分鐘內所有通知將只提醒1次<!--within one minute--></item>
-        <item>5分鐘內所有通知將只提醒1次<!--within 5 minutes--></item>
-        <item>10分鐘內所有通知將只提醒1次<!--within 10 minutes--></item>
+        <item>不集體警報<!--OFF (no grouping)--></item>
+        <item>1分鐘內所有警報將只提醒1次<!--within one minute--></item>
+        <item>5分鐘內所有警報將只提醒1次<!--within 5 minutes--></item>
+        <item>10分鐘內所有警報將只提醒1次<!--within 10 minutes--></item>
     </string-array>
     <string-array name="notifyGroupTimeValues">
         <item>-1</item>
