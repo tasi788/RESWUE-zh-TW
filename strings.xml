@@ -177,13 +177,13 @@
     <string name="exit_service_activity_menu">Exit &amp; Stop sending your Location</string>
     <string name="farAwayOnResolve">The current distance to the portal is %s - Please verify if your resolve message is appropriate.</string>
     <string name="glogin_failed">Google+ login failed for unknown reasons</string>
-    <string name="google_maps_key">AIzaSyAHZYTJHtKeIOkEmlYmKNNHuzMJaNyBIK4</string>
+    <string name="google_maps_key"> <!--此為非公開API Key--></string>
     <string name="gps_intent_service_gps_activation_request">GPS Activation Request</string>
     <string name="gps_intent_service_gps_activation_request_desc">Your operator requests you to activate GPS tracking</string>
     <string name="gps_monitoring_service_automatic_switch_off">Automatic switch off at %s</string>
     <string name="gps_monitoring_service_gps_enabled">GPS Tracking Enabled</string>
     <string name="gps_monitoring_service_no_google_play">AgentClient: No Google Play API</string>
-    <string name="init_map_msg">GoogleMaps初始化中<!--Initializing GoogleMaps--></string>
+    <string name="init_map_msg"><!--GoogleMaps初始化中-->Initializing GoogleMaps</string>
     <string name="intelurlcopied">IntelMaps連接已複製到剪貼簿<!--Intel URL haas been copied to your clipboard--></string>
     <string name="join_operation_activity_checkbox_show_password"><!--Show Password--></string>
     <string name="join_operation_activity_field_operation_name">戰隊名稱<!--Operation Name--></string>
