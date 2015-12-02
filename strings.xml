@@ -71,7 +71,7 @@
     <string name="_PREFKEY_NOTIFY_MY_GOTO">NotifyMyGoto</string>
     <string name="_PREFKEY_NOTIFY_MY_LINK">NotifyMyLink</string>
     <string name="_PREFKEY_NOTIFY_MY_UPGRADE">NotifyMyUpgrade</string>
-    <string name="_PREFKEY_NOTIFY_MY_VIRUS"><!--NotifyMyVirus--></string>
+    <string name="_PREFKEY_NOTIFY_MY_VIRUS">NotifyMyVirus</string>
     <string name="_PREFKEY_NOTIFY_OTHER_DECAY">NotifyOtherDecay</string>
     <string name="_PREFKEY_NOTIFY_OTHER_DESTROY">NotifyOtherDestroy</string>
     <string name="_PREFKEY_NOTIFY_OTHER_FARM">NotifyOtherFarm</string>
@@ -175,16 +175,16 @@
     <string name="error_http_on_resolve">The server could not process the Alert-Resolve request – HTTP Error Code was: %d</string>
     <string name="exit_activity_menu">退出程式<!--Exit--></string>
     <string name="exit_service_activity_menu">退出程式並停止公開位置<!--Exit &amp; Stop sending your Location--></string>
-    <string name="farAwayOnResolve">The current distance to the portal is %s - Please verify if your resolve message is appropriate.</string>
-    <string name="glogin_failed">Google+ login failed for unknown reasons</string>
+    <string name="farAwayOnResolve">現在距來該塔為 %s，請確認是否完成任務。<!--The current distance to the portal is %s - Please verify if your resolve message is appropriate.--></string>
+    <string name="glogin_failed">Google+登入失敗，原因不明。<!--Google+ login failed for unknown reasons--></string>
     <string name="google_maps_key"><!--此為非公開API Key--></string>
     <string name="gps_intent_service_gps_activation_request">需要啟用GPS<!--GPS Activation Request--></string>
     <string name="gps_intent_service_gps_activation_request_desc">頻道要求公開位置<!--Your operator requests you to activate GPS tracking--></string>
     <string name="gps_monitoring_service_automatic_switch_off">%s停止公開位置<!--Automatic switch off at %s--></string>
     <string name="gps_monitoring_service_gps_enabled">GPS Tracking Enabled</string>
     <string name="gps_monitoring_service_no_google_play">AgentClient: No Google Play API</string>
-    <string name="init_map_msg"><!--GoogleMaps初始化中-->Initializing GoogleMaps</string>
-    <string name="intelurlcopied">IntelMaps連接已複製到剪貼簿<!--Intel URL haas been copied to your clipboard--></string>
+    <string name="init_map_msg">GoogleMaps初始化中<!--Initializing GoogleMaps--></string>
+    <string name="intelurlcopied">Intel Maps連接已複製到剪貼簿<!--Intel URL haas been copied to your clipboard--></string>
     <string name="join_operation_activity_checkbox_show_password"><!--Show Password--></string>
     <string name="join_operation_activity_field_operation_name">頻道名稱<!--Operation Name--></string>
     <string name="join_operation_activity_field_operation_password">密碼<!--Operation Password (Classic only)--></string>
@@ -261,11 +261,11 @@
     <string name="mr_media_route_controller_stop">Stop casting</string>
     <string name="mr_system_route_name">System</string>
     <string name="mr_user_route_category_name">Devices</string>
-    <string name="nearbyAlert_default_msg">RESWUE “Nearby Alerts” running</string>
+    <string name="nearbyAlert_default_msg">RESWUE “鄰近警報執行中”<!--RESWUE “Nearby Alerts” running--></string>
     <string name="nearbyAlert_header">%d nearby Alerts!</string>
     <string name="nearbyAlert_header_detail">%1$d nearby Alerts [Range: %2$s]</string>
     <string name="nearbyAlert_prevInRangeDevider">Previously in Range:</string>
-    <string name="nearbyAlert_summary">Open RESWUE Client for details</string>
+    <string name="nearbyAlert_summary">開啟RESWUE查看完整<!--Open RESWUE Client for details--></string>
     <string name="newAlertsSubline">反抗軍需要你！！！<!--The Resistance needs you!--></string>
     <string name="newAlertsTitle">%s 有新警報<!--%s new Alerts--></string>
     <string name="no">No</string>
@@ -291,8 +291,8 @@
     <string name="please_wait_progess_title">請稍候...<!--Please wait--></string>
     <string name="pref01cat01">pref01cat01</string>
     <string name="pref01cat02">pref01cat02</string>
-    <string name="pref01cat0200S">分配時顯示進度對話框<!--Show Progress Dialog when Assign, Decline &amp; Resolve--></string>
-    <string name="pref01cat0200T">進度對話框<!--Progress Dialog--></string>
+    <string name="pref01cat0200S">分配時顯示載入對話框<!--Show Progress Dialog when Assign, Decline &amp; Resolve--></string>
+    <string name="pref01cat0200T">載入對話框<!--Progress Dialog--></string>
     <string name="pref01cat0201S">"選擇 '%1$s' 單位"<!--"Selected unit '%1$s'"--></string>
     <string name="pref01cat0201T">距離與海拔高度<!--Distance &amp; elevation units--></string>
     <string name="pref01cat0203S">使用地圖工具顯示可用警報選項（代替獨立對話框）<!--Use Map Toolbar for showing the available alert actions (instead of a separate Dialog)--></string>
@@ -398,18 +398,18 @@ We are sorry for this inconvenience."--></string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
     <string name="store_picture_title">儲存圖片<!--Save image--></string>
-    <string name="syncing_decline_msg">"Syncing “Decline” with Server
+    <string name="syncing_decline_msg">"正在回報“無法完成任務”<!--"Syncing “Decline” with Server-->
 
- (This dialog can be disabled in the Settings)"</string>
-    <string name="syncing_resolve_msg">"Syncing “Resolve” with Server
+ (此對話框可在 '個人設定>載入對話框' 內關閉)"<!--(This dialog can be disabled in the Settings)"--></string>
+    <string name="syncing_resolve_msg">"正在回報“完成任務”<!--"Syncing “Resolve” with Server-->
 
- (This dialog can be disabled in the Settings)"</string>
-    <string name="syncing_takeover_msg">"Syncing “Assign” with Server
+ (此對話框可在 '個人設定>載入對話框' 內關閉)"<!--(This dialog can be disabled in the Settings)"--></string>
+    <string name="syncing_takeover_msg">"正在回報“接下任務”<!--"Syncing “Assign” with Server-->
 
- (This dialog can be disabled in the Settings)"</string>
+ (此對話框可在 '個人設定>載入對話框' 內關閉)"<!--(This dialog can be disabled in the Settings)"--></string>
     <string name="undo">Undo</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
-    <string name="wiz_join_op_msg">"接著，你需要加入頻道組織，如果您未登入Google+帳號，只需要點及登入按鈕來加入，你也可以用較低安全性的方式加入頻道(只輸入ID與密碼)"<!--"Finally, you need to join a RESWUE operation.
+    <string name="wiz_join_op_msg">"接著，你需要加入頻道，如果您尚未未登入Google+帳號，只需要點及登入按鈕來加入，你也可以用較低安全性的方式加入頻道(只輸入ID與密碼)"<!--"Finally, you need to join a RESWUE operation.
 If you have connected RESWUE Client with your G+ account, all you need to do is to specify the operation name and press the red “Sign In” button.
 If you haven't connected your G+ account, you can join low security operations by specifying operation name and password.
 
